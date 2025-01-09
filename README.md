@@ -7,4 +7,4 @@
     
     lunch twrp_avalon-eng
     
-    mka bacon -j1
+    mka recoveryimage -j1
