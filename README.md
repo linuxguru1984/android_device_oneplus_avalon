@@ -1,4 +1,4 @@
-# How to build:
+# Build for twrp 12.1 sources:
 
 
     export ALLOW_MISSING_DEPENDENCIES=true
@@ -7,4 +7,4 @@
     
     lunch twrp_avalon-eng
     
-    mka recoveryimage -j1
+    mka recoveryimage -j8
